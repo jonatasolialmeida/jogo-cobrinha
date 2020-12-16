@@ -13,6 +13,10 @@
 - Manipulação do css através do JavaScript para criar, alterar, e até mesmo como a aplicação deveria se comportar durante o jogo;
 - Eventos de escuta para movimentação, functions, "regras do jogo", metodos e outros;
 
+### Uma implementação feita
+
+- Consegui adicionar um espaço minimo entre cada quadradinho que formam o corpo da cobrinha.
+
 ### Novas implementações que serão feitas futuramente com o avanço do conhecimento da linguagem
 
 - Uma corpo com 2 ou 3 quadradinho, para melhorar estética;
